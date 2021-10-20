@@ -1,0 +1,68 @@
+.mainw{    margin: 150px auto auto 127px;}
+.mainw img{    margin:0 auto}
+.gr1{   position: static;;  margin: 5px auto;}
+.gr1 pre{   font-family: 'Baskervville', serif; color: #cb9e61; text-align: center;}
+
+
+.livi{  position: relative; height: 700px;}
+.litrai img{    width: 600px;   height: 600px;  margin-top: 20px;}
+.linho{ position: absolute; top:460px;  left: 600px;}
+.linho img{ width: 300px;}
+.boanh{border: 8px solid white;    border-radius: 5px;}
+.ligach{width: 50px; height: 200px;  background-color: #d9dddc; position: absolute; left: 610px; top:250px}
+.nen1{  position: absolute;bottom: 0;left: -150px;   z-index: -1;}
+.nen1 img{width:900px}
+.nen2{  position: absolute; left: 650px;    bottom: 20px;  z-index: -1;}
+.nen2 img{  width: 400px;}
+.lip{   position: absolute; right: 200px;top:50px;   width: 450px;}
+.lip1{    font-family: 'Baskervville', serif; color: #cb9e61;    font-size: 30px;     }
+.lipbut{    width: 100%;    margin: 20px 0; border: #cb9e61;    background-color: #cb9e61;
+    padding: 5px;  color: white;    font-family: 'Baskervville', serif;    font-size: 20px}
+
+
+
+
+
+
+.gr3l{    width: 850px;    float: left;    position: relative;    clear: both;}
+.gr3l img{    width: 100%;}
+.gr3l .leaf{    position: absolute;    width: 350px;    bottom: -40px;    right: -135px;}
+.gr3r{    width: 300px;    float: left;    margin: 50px;    text-align: left;}
+.tren1{    font-family: 'Baskervville', serif; color: #cb9e61;    font-size: 30px;    margin: 30px 0 50px 0;}
+.tren2{    font-family: 'Baskervville', serif; color: #929496;    font-size: 30px;}
+.duoi1{    font-family: 'Baskervville', serif; color: white;    background-color: #cb9e61;    margin: 100px 2px;    width: 200px;    text-align: center;}
+.duoi2{    font-family: 'BlackJack', sans-serif;    color: #929496; font-size: 30px;    margin-top: 20px;}
+.gr4l{    width: 760px;    float: left;    position: relative;    margin-top: 40px;    clear: both;}
+.gr4l .gr4bgr{    position: absolute;    top:0; left: -127px;    z-index: -2;}
+.gr4d1{    text-align: right;    font-family: 'Baskervville', serif; color: #cb9e61; font-size: 30px;  margin-top: 230px;}
+.gr4d2{    text-align: right;    font-family: 'Baskervville', serif; color: #929496; font-size: 30px; margin-bottom: 10px;}
+.gr4l .gr4inp{ float: right; width: 440px; height: 30px; border: 2px solid #929496; border-radius: 3px;    margin-bottom: 5px;}
+.gr4r{    width: 435px;    float:left;    margin-left: 90px;}
+.gr4r img{    width: 100%;    margin-top: 40px;    clear: both;}
+.gr4but{    float: right;    width: 444px;    height: 30px;    border: 1px solid #cb9e61;    border-radius: 3px;  
+    background-color: #cb9e61;    color: white;    font-family: 'Baskervville', serif;    font-size: 20px;}
+.gr4d{    font-family: 'Barlow', sans-serif; font-size: 14px; color: #929496; float: right; width: 450px;text-align: right;}
+.gr5{    clear: both;    padding-top: 50px;    display: block;    position: relative;    }
+.gr5 .hd1{    margin-left: -127px;    clear: both;}
+.gr5{    display: block;    clear: both;    position: relative;}
+.gr5hinh{    position: relative;    clear: both;    height: 590px;    z-index: -1;}
+.gr5l{    width: 300px;    bottom: 0;    left: 90px;    position: absolute;}
+.gr5l img{    float: right;    margin-top: 5px;}
+.gr5gach {    width: 100%;}
+.gr5p{    text-align: center;    width: 100%;    position: absolute;    bottom: -25px;    background-color: #929496;
+    color: white;    padding: 5px 0;    font-family: 'Montserrat', serif;}
+.gr5giua{    position: absolute;    left: 400px;    width: 500px;}
+.gr5giua img{    width: 100%;}
+.gr5phai{    position: absolute;    left: 910px;    width: 300px;}
+.gr5phai img{    width: 100%;}
+.gr5la{    position: absolute;    left: 40px;    top: 400px;    z-index: -2;    width: 100px;}
+.gr5la img{    width: 100%;}
+.gr5nent{    position: absolute;}
+.gr5nent img{    width: 1000px;    position: absolute;    left:50px;    top:-100px;}
+.gr5nen{    position: absolute;    right: 0;    top:100px;    z-index: -5;}
+.gr5text{    width: 400px;    z-index: 2;    position: absolute;    left: 420px;    bottom: -70px;}
+
+
+
+
+
