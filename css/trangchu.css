@@ -67,7 +67,7 @@
 .gr5la{    position: absolute;    left: -20%; top:0;   z-index: -1;    }
 .gr5la img{    width: 90%;}
 .gr5nent{    position: absolute; z-index: 0; top:-20%; left: 5%;}
-.gr5nen{    position: absolute;    right: 0;    top:20%;    z-index: -5;}
+.gr5nen{    position: absolute;    right: -5%;    top:20%;    z-index: -5;}
 .gr5nen img{width: 100%;}
 .gr5text{    width: 40%;    z-index: 1;    position: absolute;    left: 30%; top: 80%;}
 .gr5 h1{    clear: both; text-align: center;    font-family: 'Baskervville', serif;    color: #cb9e61;
