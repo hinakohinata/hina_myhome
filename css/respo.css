@@ -9,7 +9,7 @@
 }
 @media screen and (max-width: 1350px){
     html{   padding: 0; margin: 0;}
-    header{ width: 90%; float:left}
+    header{ width: 90%; float:left; margin-left:5%}
     header .topnav a{font-size: 15px;}
     header .topnav input[type=text]{ height: 15px; font-size: 15px; float: right; }
     body{   margin: 0;}
