@@ -7,6 +7,6 @@ header{position: fixed; top:0;  background-color:   rgba(255, 255, 255, 0.8);  ;
  button:hover{    background-color: #e5c8a0;    color: white;}
 .topnav {    clear: both;    overflow: hidden;}
 .topnav a {    float: left;    display: block;    text-align: center;    padding: 14px 16px;
-    font-family: 'Montserrat', sans-serif;    text-decoration: none;    color: #929496;    font-size: 17px;}
+    font-family: 'Montserrat', sans-serif;    text-decoration: none;    color: #929496;    font-size: 15px;}
 .topnav a:hover,.active {    background-color: #ddd;    color: black;  }
 .topnav input[type=text] {    float: right;    padding: 6px;    border: 2px solid #929496;    margin-top: 8px;    font-size: 15px;  border-radius: 5px;  }
