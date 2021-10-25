@@ -1,13 +1,13 @@
 footer{ height: 380px;  background-color: #999999;  margin: 0 60px;padding-top: 70px;
         position: relative;   color: white ;  clear: both;      z-index: 1;}
-.gr9cot1{ width: 400px;    float: left;   text-align: right;}
-footer li{  list-style: none;   margin-bottom: 15px;}
+.gr9cot1{ width: 30%;    float: left;   text-align: right;}
+footer li{  list-style: none;   margin-bottom: 2%;}
 footer a{    color: white;  text-decoration: none;  font-family: 'Montserrat',serif;    font-size: 15px;}
-.gr9cot2{ width: 599px;     float: left;   text-align: center;}
-.gr9cot3{ width: 400px;    float: right;   text-align: left; padding-top: 30px;}
+.gr9cot2{ width: 40%;     float: left;   text-align: center; padding-left:5%}
+.gr9cot3{ width: 30%;    float: right;   text-align: left; padding-top: 20%;}
 .cantren{   margin-top: 60px;}
 .toolr{   font-weight: bold;}
-.gr9giua{    width: 350px; margin: 0 auto;
+.gr9giua{    width: 100%; margin: 0 auto;
      text-align: left; padding-top: 20px;}
 .gr9tren{ font-family: 'Baskervville';  font-size: 20px;    color: white;   margin-bottom: 25px;}
 .gr9ipt{    width: 300px; height: 25px;    padding: 2px ;  font-family: 'Baskervville';  }
