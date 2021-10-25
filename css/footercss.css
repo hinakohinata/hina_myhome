@@ -3,7 +3,7 @@ footer{ height: 380px;  background-color: #999999;  margin: 0 60px;padding-top: 
 .gr9cot1{ width: 25%;    float: left;   text-align: right;}
 footer li{  list-style: none;   margin-bottom: 2%;}
 footer a{    color: white;  text-decoration: none;  font-family: 'Montserrat',serif;    font-size: 15px;}
-.gr9cot2{ width: 40%;     float: left;   text-align: center; padding-left:5%}
+.gr9cot2{ width: 30%;     float: left;   text-align: center; padding-left:5%}
 .gr9cot3{ width: 30%;    float: right;   text-align: left; padding-top: 20%;}
 .cantren{   margin-top: 60px;}
 .toolr{   font-weight: bold;}
