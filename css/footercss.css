@@ -1,5 +1,5 @@
 footer{ height: 380px;  background-color: #999999;  margin: 0 60px;padding-top: 70px;
-        position: relative;   color: white ;  clear: both;      z-index: 10;}
+        position: relative;   color: white ;  clear: both;      z-index: 1;}
 .gr9cot1{ width: 400px;    float: left;   text-align: right;}
 footer li{  list-style: none;   margin-bottom: 15px;}
 footer a{    color: white;  text-decoration: none;  font-family: 'Montserrat',serif;    font-size: 15px;}
