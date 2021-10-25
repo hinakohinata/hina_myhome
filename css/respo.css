@@ -1,0 +1,66 @@
+@media screen and (max-width: 1450px){
+    html{   padding: 0; margin: 0;}
+    header{ width: 90%; margin-left: 5%; font-size: 15px;}
+    body{   margin: 0;}
+    .mainw{  width: 90%; display: block;}
+    .gr1{ width: 100%;}
+    .up img{ width: 100%;}
+    footer{ width: 90%; margin-left: 5%;}
+}
+@media screen and (max-width: 1350px){
+    html{   padding: 0; margin: 0;}
+    header{ width: 90%; margin-left: 5%;}
+    header .topnav a{font-size: 15px;}
+    header .topnav input[type=text]{ height: 15px; font-size: 15px; float: right; }
+    body{   margin: 0;}
+    .mainw{  width: 90%; display: block;}
+    .gr1{ width: 90%;}
+    .up img{ width: 100%;}
+    footer{ width: 90%; margin-left: 5%;}
+    footer a{  font-size: 70%;}
+    .gr7{ width: 90%;}
+    .gr9cot1{ width: 25%;}
+    .gr8 .gr8tren{left: 40%;}
+    .gr8 .gr8phai{ left: 45%; top:45%}
+    .gr8 .gr8gach{ left: 45%;}
+    .gr8p{ width: 50%; bottom: 0;}
+    .gr4p{ font-size: 80%;}
+}
+@media screen and (max-width: 1200px){
+    html{   padding: 0; margin: 0;}
+    header{ width: 90%; margin-left: 5%;}
+    header .topnav a{font-size: 10px;}
+    header .topnav input[type=text]{ height: 15px; font-size: 10px;}
+    body{   margin: 0;}
+    .mainw{  width: 90%; display: block;}
+    .gr1{ width: 100%;}
+    .up img{ width: 100%;}
+    footer{ width: 90%; margin-left: 5%;}
+    .gr3l{ width: 55%;}
+    .gr6nen{ top:30%}
+    .gr6deanh{top:10%}
+    .gr6anhduoi{ top:35%}
+    .gr6leaf{top:30%}
+    .gr8tren{ left: 45%;}
+    .gr8phai{ left: 52%; top: 40%}
+    .gr8gach{ left: 52%;}
+    .gr8p{ right: 0;}
+}
+@media screen and (max-width: 768px){
+    body{   width: 100%;}
+}
+@media screen and (max-width: 1450px){
+    body{   width: 100%;}
+}
+@media screen and (max-width: 1450px){
+    body{   width: 100%;}
+}
+@media screen and (max-width: 1450px){
+    body{   width: 100%;}
+}
+@media screen and (max-width: 1450px){
+    body{   width: 100%;}
+}
+@media screen and (max-width: 1450px){
+    body{   width: 100%;}
+}
