@@ -1,95 +1,55 @@
-.mainw{    margin: 150px auto auto 127px;}
+
 .mainw img{    margin:0 auto}
 
 
 
-
-.tren1{    font-family: 'Baskervville', serif; color: #cb9e61;    font-size: 30px;    margin: 30px 0 50px 0;}
-.tren2{    font-family: 'Baskervville', serif; color: #929496;    font-size: 30px;}
-.duoi1{    font-family: 'Baskervville', serif; color: white;    background-color: #cb9e61;    margin: 100px 2px;    width: 200px;    text-align: center;}
-.duoi2{    font-family: 'BlackJack', sans-serif;    color: #929496; font-size: 30px;    margin-top: 20px;}
-
-
-
+.gr1{   position: relative; margin-top:145px;   width: 100%; margin-bottom: 5%;}
 .gr1 pre{   font-family: 'Baskervville', serif; color: #cb9e61; text-align: center;}
 
-.gr2p1{margin: 30px 0 30px -125px;    font-family: 'Baskervville', serif;    color: #cb9e61;
-    text-align: center; margin-top:  30px auto; font-size: 30px;}
 
-.gr5{    clear: both;    padding-top: 50px;    display: block;    position: relative;    }
-.gr5 .hd1{    margin-left: -127px;    clear: both;}
-.gr5{    display: block;    clear: both;    position: relative;}
-.gr5hinh{    position: relative;    clear: both;    height: 590px;    z-index: -1;}
-.gr5l{    width: 300px;    bottom: 0;    left: 90px;    position: absolute;}
-.gr5l img{    float: right;    margin-top: 5px;}
-.gr5gach {    width: 100%;}
-.gr5p{    text-align: center;    width: 100%;    position: absolute;    bottom: -25px;    background-color: #929496;
-    color: white;    padding: 5px 0;    font-family: 'Montserrat', serif;}
-.gr5giua{    position: absolute;    left: 400px;    width: 500px;}
-.gr5giua img{    width: 100%;}
-.gr5phai{    position: absolute;    left: 910px;    width: 300px;}
-.gr5phai img{    width: 100%;}
-.gr5la{    position: absolute;    left: 40px;    top: 400px;    z-index: -2;    width: 100px;}
-.gr5la img{    width: 100%;}
-.gr5nent{    position: absolute;}
-.gr5nent img{    width: 1000px;    position: absolute;    left:50px;    top:-100px;}
-.gr5nen{    position: absolute;    right: 0;    top:100px;    z-index: -5;}
-.gr5text{    width: 400px;    z-index: 2;    position: absolute;    left: 420px;    bottom: -70px;}
+.gr10{  position: relative;    z-index: -3;}
+.gr10trai{width: 45%;}
+.gr10trai img{ width: 45%;}
 
+.gr10phai{  position: absolute; top:0;left: 46%; width: 35%;}
+.gr10phai img{ width: 100%;}
 
-.gr10{  position: relative;margin-top: 30px;    z-index: -3;}
-.gr10phai{  position: absolute; top:0;left: 520px;}
-.gr10duoi{  position: absolute; top:350px;left: 520px;}
-.gr10nent{  position: absolute; top:-150px;left: -460px;}
-.gr10note{width: 300px;   margin-top: 15px;    padding: 10px;    font-size: 40px;background-color: #cb9e61;
+.gr10duoi{    position: absolute; left: 46%; top: 34%; width: 30%;}
+.gr10duoi img{ width: 100%;}
+
+.gr10nent{  position: absolute; top:-15%;left: -5%;}
+.gr10nen{    position: absolute; right: -5%; top:0;    z-index: -3;}
+
+.gr10pfa{   position: absolute; right: 5%;bottom: 5%; width: 50%;}
+.gr10note{  padding: 1%;    font-size: 200%; background-color: #cb9e61;
     color: white; border-radius: 50px;    font-family: 'Libre Baskerville', serif; 
-    text-align: center;   position: absolute; top:400px; right: 150px;}
+    text-align: center; width: 50%;}
 
 .gr10p{width: 350px;   margin-top: 15px;    padding: 10px;    font-size: 30px;color: #cb9e61;
      border-radius: 50px;    font-family: 'Libre Baskerville', serif; 
-    text-align: center;   position: absolute; top:550px; right: 130px;}
-    
-.gr10la{    position: absolute; bottom:-50px;   left: -60px;}
+    text-align: center;}
+.gr5p{    text-align: center;    width: 100%;    position: absolute;    bottom: -25px;    background-color: #929496;
+        color: white;    padding: 5px 0;    font-family: 'Montserrat', serif;}
+.gr10la{    position: absolute; bottom:5%;   left: -5%; width: 15%;}
+.gr10la img{ width: 100%;}
 
 
 
 
-
-
-
-.gr6{ clear: both;    position: relative;    margin: 250px auto 0 20px;     }
-.gr6l {width: 320px;float: left;text-align: right;}
-.gr6r{  width: 1000px;    height: 740px; float: right;    position: relative;}
-.gr6anhgiua{width: 740px; float: left; }
-.boanh{border: 8px solid white;    border-radius: 5px;}
-.gr6anhduoi{ position: absolute;    left: 330px; top:470px;z-index: 1;}
-.gr6deanh{     position: absolute;    top:200px; right: 243px;}
-.gr6gach{ margin-top: 10px;}
-.gr6nen{position: absolute; top:400px; right: 30PX; z-index: -1;}
-.gr6leaf{   position: absolute;top:370px; left: 5px;}
-.gr7{   height: 882px; ;    clear: both;position: relative;margin-top: 20px;}
-.gr7nen{    position: relative;}
-.gr7bong{   position: absolute; right: 100px;   bottom: -100px; z-index: -1;}
-.gr7deanh{  position: absolute; top:-130px;left:-90px ;   }
-.gr7deanh img{  width: 100%;}
-.gr7form{        width: 445px;   height: 245px;        background-color:   rgba(255, 255, 255, 0.8);
-        position: absolute; top:360px;  left:380px; padding: 35px 50px 65px 35px;}
-.gr7ipt{    width: 100%;    height: 30px;    margin-top: 15px;    padding: 0 10px;    font-size: 13px;}
-.gr7but{    width: 104.2%;    height: 30px;    margin-top: 15px;    padding: 0 10px;    font-size: 13px;background-color: #cb9e61;
-        color: white; border: none;    font-family: 'Baskervville', serif;    font-size: 20px;}
-.gr7p{font-family: 'Barlow', sans-serif; font-size: 14px; color: #929496; margin: 20px;  }
-.gr7tren{ width: 500px; text-align: center;; position: absolute; top:30px;  left: 500px;z-index: 1;}
-.gr8{margin-top: 100px;     position: relative;     height: 900px;     }
-.gr8tren{    position: absolute; left: 530px;    top:50px}
-.gr8phai img{    position: absolute; left: 615px;   top:395px}
-.gr8gach{   position: absolute; left: 615px;   top: 619px;}
-.gr8nen{    position: absolute; top:-40px; right: -0px;    z-index: -3;}
-.gr8p{  position: absolute; width: 500px;   ;bottom: 100px; right: 50px;
-     font-family: 'Libre Baskerville', serif; color: #cb9e61;}
-.gr8pl{ width: 170px;    float: left;    font-size: 120px;}
-.gr8pr{ width: 330px;    float: left;}
-.gr8prtren{ font-size: 45px;}
-.gr8prduoi{ font-size: 27px;}
+.gr8{    position: relative; clear: both;}
+.gr8tren{    position: absolute; left: 40%;    top:5%; width: 35%;}
+.gr8tren img{   width: 100%;}
+.gr8phai {    position: absolute; left: 45%; top: 45%; width: 25%;}
+.gr8phai img{   width: 100%;}
+.gr8gach{   position: absolute; left: 45%;   top: 73%; width: 5%;}
+.gr8gach img{width: 100%;}
+.gr8nen{    position: absolute; right: 0; top:0;    z-index: -3;}
+.gr8trai{width: 44%;}
+.gr8p{  position: absolute; width: 40%;   ;bottom: 5%; right: 0;     font-family: 'Libre Baskerville', serif; color: #cb9e61;}
+.gr8pl{ width: 30%;    float: left;    font-size: 120px;}
+.gr8pr{ width: 70%;    float: left;}
+.gr8prtren{ font-size: 300%;height: 50%;}
+.gr8prduoi{ font-size: 200%;}
 
 
 
