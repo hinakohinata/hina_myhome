@@ -1,61 +1,45 @@
-.mainw{    margin: 150px auto auto 127px;   }
 .mainw img{    margin:0 auto}
 
 
-.gr1{   position: static;  margin: 5px auto;}
+.gr1{   position: relative; margin-top:145px;   width: 100%;}
 .gr1 pre{   font-family: 'Baskervville', serif; color: #cb9e61; text-align: center;}
 
 
-.gr11{  position: relative; clear: both;    height: 800px;}
-.gr11trai{  position: absolute; width: 900px;}
-.gr11trtr{width: 700px; float: right;  }
+.gr11{  position: relative; clear: both; margin-bottom: 2%;}
+.gr11trtr{ width: 60%;  padding-left: 10%;}
+.gr11tduoi{width: 20%;    padding-left: 50%;  padding-top: 10px; clear: both;}
+.gr11phai{  position: absolute; top:10%; left: 71%; width: 25%;}
+.gr11phai img{width: 100%;}
 .gr5p{    text-align: center;    width: 100%;    position: absolute;    top: -25px;    background-color: #929496;
     color: white;    padding: 5px 0;    font-family: 'Montserrat', serif;}
-.gr11phai{  position: absolute; top:120px; right: 130px; width: 350px;}
-.gr11phai img{width: 100%;}
-.gr11duoi{width: 300px; float: left;}
-.gr11tduoi{width: 300px; float: right;  padding-top: 10px;}
-.gr11nen{   position: absolute; top: 200px; left: 100px; z-index: -1;}
-.gr11la{   position: absolute;; left: 130px;}
-.gr11la img{    width: 150px;}
-.gr11p{     position: absolute; bottom: 250px;    font-size: 30px;color: #929496;
-    border-radius: 50px;    font-family: 'Libre Baskerville', serif; }
+.gr11duoi{width: 80%; float: left;}
+.gr11nen{   position: absolute; top: 45%; left: 0; z-index: -1;}
+.gr11la{   position: absolute;; left: 5%; top:0; width: 10%;}
+.gr11la img{    width: 100%;}
+.gr11p{     position: absolute; bottom: 15%;    font-size: 200%;  color: #929496;
+    border-radius: 50px;    font-family: 'Libre Baskerville', serif; left: 5%; width: 50%;}
 
 
-.gr12{  height: 800px;   position: relative;}
-.gr12phai .gr12to img{  position: absolute; right: 70px;   width: 550px;}
-.gr12tren{  position: absolute;left: 510px;}
-.gr12tren img{  width: 250px;   height: 300px;}
-.gr12duoi{  position: absolute;left: 460px; top:310px}
-.gr12nen1{   position: absolute; top: 550px; left: 300px; z-index: -1;}
-.gr12nen2{   position: absolute; top: 250px; right: 0px; z-index: -1;}
+.gr12{position: relative; float: left; clear: both;}
+.gr12trai
+.gr12to {  position: absolute; right: -5%; top:0;    width: 45%;}
+.gr12to img{ width: 100%;}
+.gr12tren{  position: absolute;left: 39%; top:0;  width: 20%;}
+.gr12tren img{ width: 100%;}
+.gr12duoi{  position: absolute;left: 60%; top:57%;  width: 20%;}
+.gr12duoi img{width: 100%;}
+.gr12nen1{   position: absolute; top: 45%; left: 30%; z-index: -1;}
+.gr12nen2{   position: absolute; top: 20%; right: -10%; z-index: -2;}
 .boanh{border: 8px solid white;    border-radius: 5px;}
-
-
-.gr12trai{  width: 450px;  float: left;}
-
-
-.gr4d1{    text-align: right;    font-family: 'Baskervville', serif; color: #929496; font-size: 30px;  margin-top: 130px;}
-.gr4d2{    text-align: right;    font-family: 'Baskervville', serif; color: #cb9e61; font-size: 30px; margin-bottom: 10px;}
-.gr4inp{ float: right; width: 440px; height: 30px; border: 2px solid #929496; border-radius: 3px;    margin-bottom: 10px;}
+.gr12trai{ width: 37%;   float: left; margin-bottom: 30%;}
+.gr4d1{    text-align: right;    font-family: 'Baskervville', serif; color: #929496; font-size: 30px;  margin-top: 30%;}
+.gr4d2{    text-align: right;    font-family: 'Baskervville', serif; color: #cb9e61; font-size: 30px; margin-bottom: 5%;}
+.gr4inp{ float: right; width: 90%; height: 30px; border: 2px solid #929496; border-radius: 3px;    margin-bottom: 2%;}
 input::placeholder{ text-align: right;  padding-right: 10px;}
-.gr4r{    width: 435px;    float:left;    margin-left: 90px;}
-.gr4r img{    width: 100%;    margin-top: 40px;    clear: both;}
-.gr4but{    float: right;    width: 444px;    height: 30px;    border: 1px solid #cb9e61;    border-radius: 3px;  
-    background-color: #cb9e61;    color: white;    font-family: 'Baskervville', serif;    font-size: 20px;  margin: 0px 0 30px;}
-.gr4d{    font-family: 'Barlow', sans-serif; font-size: 14px; color: #929496; float: right; width: 450px;text-align: right;}
-select{ width: 444px;   margin:10px 6px 10px 6px;    padding: 5px;   font-size: 15px;    color: #929496; text-align: right;
-      border:2px solid #929496; border-radius: 3px;}
-
-
-
-
-
-
-
-
-
-
-
-
-
+.gr4r{    width: 100%;    float:left}
+.gr4r img{    width: 100%;    margin-top: 5%;    clear: both;}
+.gr4but{    float: right;    width: 91%;    height: 30px;    border: 1px solid #cb9e61;    border-radius: 3px;  
+    background-color: #cb9e61;    color: white;    font-family: 'Baskervville', serif;    font-size: 20px;  margin: 0px 0 5%;}
+.gr4d{    font-family: 'Barlow', sans-serif; font-size: 14px; color: #929496; float: right; width: 100%;text-align: right;}
+select{ width: 90.7%;   margin:2% 0;    padding: 5px;   font-size: 15px;    color: #929496; text-align: right;
+      border:2px solid #929496; border-radius: 3px; float: right;}
