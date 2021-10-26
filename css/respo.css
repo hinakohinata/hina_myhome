@@ -1,6 +1,6 @@
 @media screen and (max-width: 1450px){
     html{   padding: 0; margin: 0;}
-    header{ width: 90%; font-size: 15px;}
+    header{ width: 90%; margin-left: 5%; font-size: 15px;}
     body{   margin: 0;}
     .mainw{  width: 90%; display: block;}
     .gr1{ width: 100%;}
@@ -9,7 +9,7 @@
 }
 @media screen and (max-width: 1350px){
     html{   padding: 0; margin: 0;}
-    header{ margin-left:5%;}
+    header{ width: 90%; margin-left: 5%;}
     header .topnav a{font-size: 15px;}
     header .topnav input[type=text]{ height: 15px; font-size: 15px; float: right; }
     body{   margin: 0;}
@@ -25,6 +25,10 @@
     .gr8 .gr8gach{ left: 45%;}
     .gr8p{ width: 50%; bottom: 0;}
     .gr4p{ font-size: 80%;}
+    .kit .kittrai{top:24%;    left: 34%;}
+    .kitduoi{ top:54%;  left: 50%;}
+    .kitgach{ top:54%;  left: 71%;}
+    .kitnen{ top:45%;}
 }
 @media screen and (max-width: 1200px){
     html{   padding: 0; margin: 0;}
