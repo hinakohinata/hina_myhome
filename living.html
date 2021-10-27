@@ -95,8 +95,25 @@
                     <img src="./pic/gr4/pic2.png" alt="">
                 </div>
             </div>
-
-
+            <button onclick="topFunction()" id="onTop" title="Go to top">Top</button>
+            <script>
+                var mybutton = document.getElementById("onTop");
+                
+                window.onscroll = function() {scrollFunction()};
+                
+                function scrollFunction() {
+                  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    mybutton.style.display = "block";
+                  } else {
+                    mybutton.style.display = "none";
+                  }
+                }
+                
+                function topFunction() {
+                  document.body.scrollTop = 0;
+                  document.documentElement.scrollTop = 0;
+                }
+                </script>
                         
         </main>    
         <footer id="gr9ket">
