@@ -22,14 +22,14 @@
 
 .gr12{position: relative; float: left; clear: both;}
 .gr12trai
-.gr12to {  position: absolute; right: -5%; top:0;    width: 45%;}
+.gr12to {  position: absolute; right: 0%; top:0;    width: 45%;}
 .gr12to img{ width: 100%;}
 .gr12tren{  position: absolute;left: 39%; top:0;  width: 20%;}
 .gr12tren img{ width: 100%;}
 .gr12duoi{  position: absolute;left: 60%; top:57%;  width: 20%;}
 .gr12duoi img{width: 100%;}
 .gr12nen1{   position: absolute; top: 45%; left: 30%; z-index: -1;}
-.gr12nen2{   position: absolute; top: 20%; right: -10%; z-index: -2;}
+.gr12nen2{   position: absolute; top: 20%; right: -5%; z-index: -2;}
 .boanh{border: 8px solid white;    border-radius: 5px;}
 .gr12trai{ width: 37%;   float: left; margin-bottom: 30%;}
 .gr4d1{    text-align: right;    font-family: 'Baskervville', serif; color: #929496; font-size: 30px;  margin-top: 30%;}
